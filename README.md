@@ -2,7 +2,9 @@
 An general attendance taking app made using computer vision
 
 # Steps To run the program(Make sure you have only python 8 or 9 series in your computer)
-1. Please Create a folder named "ImagesAttendance" in the same folder in which you download these files. Only then the program will run properly. 1.First of All Download the code as Zip file from the github repository
+Please Create a folder named "ImagesAttendance" in the same folder in which you download these files. Only then the program will run properly. 
+
+1.First of All Download the code as Zip file from the github repository
 
 2. Download Pycharm Community version from:-https://www.jetbrains.com/pycharm/download/#section=windows
 
